@@ -55,6 +55,15 @@
       text-transform: capitalize;
       width: 30rem;
     }
+
+    @media screen and (max-width: 400px) {
+      .input__form {
+        width: 90%;
+        margin-left: 5%;
+        height: 7rem;
+        font-size: 1.8rem;
+      }
+    }
   }
 </style>
 

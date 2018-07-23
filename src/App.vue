@@ -69,4 +69,14 @@
       transform: translate(.1rem, .1rem);
     }
   }
+
+  @media screen and (max-width: 400px) {
+    .container {
+      width: 100vw;
+    }
+    .btn {
+      padding: 2rem;
+      font-size: 1.7rem;
+    }
+  }
 </style>
