@@ -1,6 +1,7 @@
 
 <template>
   <div class="container">
+  <img src="./assets/favicon-16x16.png">
     <app-search></app-search>
     <app-button></app-button>
   </div>
