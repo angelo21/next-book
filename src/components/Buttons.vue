@@ -17,7 +17,6 @@
         random: "Random Book",
         books: [
           {title: "The butterfly Garden"},
-          {title: "A cabin at the end of the world"},
           {title: "Fantasticland"},
           {title: "The girl next door"},
           {title: "The last policeman"},
