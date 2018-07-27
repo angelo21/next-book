@@ -14,7 +14,7 @@
   export default {
     data() {
       return {
-        input: "Random Book Pick",
+        input: "Random Book Picker",
         showInputField: false
       }
     },
