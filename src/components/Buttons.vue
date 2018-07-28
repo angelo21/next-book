@@ -59,6 +59,8 @@
           {title: "It"},
           {title: "Hyperion"},
           {title: "A noise downstairs"},
+          {title: "The Beach"},
+          {title: "Still Life for Crows"},
         ],
         newBook: "",
       }
