@@ -111,7 +111,6 @@
           {title: "Armada"},
           {title: "Living dead girl"},
           {title: "Gardens of the moon"},
-          {title: "Child 44"},
           {title: "Assasins Apprentice"},
           {title: "The gray man"},
           {title: "The shattered sea"},
