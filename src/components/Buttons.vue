@@ -124,6 +124,11 @@
           {title: "Speaks the nightbird"},
           {title: "Death of Mrs. Westaway"},
           {title: "Neuromancer"},
+          {title: "The name of the wind"},
+          {title: "Obscura"},
+          {title: "The Hobbit"},
+          {title: "Ghost Story"},
+          {title: "The Book Thief"},
         ],
         newBook: "",
       }
