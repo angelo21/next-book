@@ -10,7 +10,6 @@
 <script>
   import AppSearch from "./components/SearchBar.vue";
   import AppButton from "./components/Buttons.vue";
-  import AppBookExists from "./components/BookExitsts.vue";
 
   export default {
     data() {
@@ -21,7 +20,6 @@
     components: {
       AppSearch,
       AppButton,
-      AppBookExists,
     }
   }
 </script>

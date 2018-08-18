@@ -32,6 +32,7 @@
           {title: "The blade itself"},
           {title: "The book of m"},
           {title: "The Book Thief"},
+          {title: "The Breach"},
           {title: "The butterfly Garden"},
           {title: "The changeling"},
           {title: "The cipher"},
@@ -48,11 +49,13 @@
           {title: "The girl with the dragon tattoo"},
           {title: "the gone away world"},
           {title: "The gray man"},
+          {title: "The green mile"},
           {title: "The hitchhikers guide"},
           {title: "The Hobbit"},
           {title: "The last policeman"},
           {title: "The library at mount char"},
           {title: "The lies of locke lamora"},
+          {title: "The long walk"},
           {title: "The name of the wind"},
           {title: "The passage"},
           {title: "The quantum thief"},
@@ -61,16 +64,19 @@
           {title: "The shattered sea"},
           {title: "The Shining"},
           {title: "The sisters brothers"},
+          {title: "The speed of sound"},
+          {title: "The stand"},
           {title: "the terror"},
           {title: "The three body problem"},
           {title: "The wasp factory"},
           {title: "The windup girl"},
+          {title: "the woman in the window"},
           {title: "the ruins"},
-
+          
           {title: "A noise downstairs"},
           {title: "a simple plan"},
           {title: "Abandon"},
-          {title: "Afraid"},
+          {title: "Afraid Omnibus"},
           {title: "After on"},
           {title: "alice"},
           {title: "All our wrong todays"},
@@ -93,7 +99,8 @@
           
           {title: "Death of Mrs. Westaway"},
           {title: "Deception Point"},
-
+          
+          {title: "Early Riser"},
           {title: "Eeny meeny"},
           {title: "enders game"},
           {title: "Everlost"},
@@ -118,6 +125,7 @@
           {title: "Let the right one in"},
           {title: "lies"},
           {title: "lightning"},
+          {title: "little liars"},
           {title: "Living dead girl"},
           {title: "Lock in"},
           {title: "Lolita"},
@@ -136,6 +144,7 @@
           {title: "Obscura"},
           {title: "off season"},
           {title: "Off to be the wizard"},
+          {title: "One of us"},
           {title: "origin"},
 
           {title: "Paradox Bound"},
@@ -144,10 +153,14 @@
           
           {title: "Red dragon"},
           {title: "Reincarnation Blues"},
+          {title: "Rust and stardust"},
           
+          {title: "Sandman Slim"},
+          {title: "Scrublands"},
           {title: "Seed"},
           {title: "Semiosis"},
           {title: "Shift"},
+          {title: "Six of crows"},
           {title: "Six wakes"},
           {title: "Sleeping giants"},
           {title: "Snap"},
@@ -158,6 +171,7 @@
           {title: "Sphere"},
           {title: "Steelheart"},
           {title: "Still Life for Crows"},
+          
           {title: "Touch"},
           {title: "Triptych"},
           
@@ -167,8 +181,10 @@
           {title: "Version control"},
           
           {title: "Warm Bodies (OD)"},
+          {title: "When galaxies collide"},
           
           {title: "Year Zero"},
+          {title: "You"},
 
           {title: "Zero World (OD)"},
         ],
