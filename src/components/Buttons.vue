@@ -29,7 +29,7 @@
           {title: "The cipher"},
           {title: "the city and the city"},
           {title: "the company man"},
-          {title: "The cricifix killer"},
+          {title: "The crucifix killer"},
           {title: "The croning"},
           {title: "the deep"},
           {title: "The expanse"},
