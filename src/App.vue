@@ -2,7 +2,6 @@
 <template>
   <div class="container">
     <app-search></app-search>
-    <app-book-exists></app-book-exists>
     <app-button></app-button>
   </div>
 </template>
