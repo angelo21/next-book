@@ -2,23 +2,26 @@
 <template>
   <div class="container">
     <app-search></app-search>
+    <app-book-exists></app-book-exists>
     <app-button></app-button>
   </div>
 </template>
 
 <script>
   import AppSearch from "./components/SearchBar.vue";
-  import AppButton from "./components/Buttons.vue"
+  import AppButton from "./components/Buttons.vue";
+  import AppBookExists from "./components/BookExitsts.vue";
 
   export default {
     data() {
       return {
-
+        
       }
     },
     components: {
       AppSearch,
       AppButton,
+      AppBookExists,
     }
   }
 </script>

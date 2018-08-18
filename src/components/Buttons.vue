@@ -2,8 +2,14 @@
 <template>
   <div class="button">
     <button 
+      v-if="!disabled"
       class="btn button__random"
       @click="loadRandomPick">{{ random }}
+    </button>
+    <button
+      @click="showList"
+      class="btn button__random">
+      {{ showAll }}
     </button>
   </div>
 </template>
@@ -14,7 +20,10 @@
   export default {
     data() {
       return {
+        disabled: false,
         random: "Random Book",
+        showAll: "Show All",
+        
         books: [
           {title: "84k"},
           {title: "The acolyte"},
@@ -178,6 +187,10 @@
           }
         })
         EventBus.$emit("random-pick", this.newBook)
+      },
+      showList() {
+        this.disabled = true;
+        EventBus.$emit("list", this.books)
       }
     }
   }
